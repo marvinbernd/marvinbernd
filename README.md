@@ -2,10 +2,10 @@
 
 I love building websites/apps with a clean and great design focused on usability. I gave myself the challenge to build fast and scalable solutions. I'm always ready to learn new skills in design & tech to improve the products I'm delivering to my clients.
 
-<a title="Chris Williams, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"><img align="left" width="32" alt="Unofficial JavaScript logo 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/32px-Unofficial_JavaScript_logo_2.svg.png"></a>
-<a title="http://sass-lang.com/, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg"><img align="left" width="32" alt="Sass Logo Color" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/32px-Sass_Logo_Color.svg.png"></a>
-<a title="ReactJS, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React.svg"><img align="left" width="32" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/32px-React.svg.png"></a>
-<a title="node.js authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"><img align="left" width="32" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
+<a title="Chris Williams, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"><img align="left" height="32" alt="Unofficial JavaScript logo 2" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
+<a title="http://sass-lang.com/, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg"><img align="left" height="32" alt="Sass Logo Color" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></a>
+<a title="ReactJS, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React.svg"><img align="left" height="32" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></a>
+<a title="node.js authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"><img align="left" height="32" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
 
 <!--
 **marvinbernd/marvinbernd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
