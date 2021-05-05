@@ -5,7 +5,7 @@ I love building websites/apps with a clean and great design focused on usability
 <a title="Chris Williams, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"><img align="left" width="32" alt="Unofficial JavaScript logo 2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/32px-Unofficial_JavaScript_logo_2.svg.png"></a>
 <a title="http://sass-lang.com/, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg"><img align="left" width="32" alt="Sass Logo Color" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/32px-Sass_Logo_Color.svg.png"></a>
 <a title="ReactJS, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React.svg"><img align="left" width="32" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/32px-React.svg.png"></a>
-<a title="node.js authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"><img align="left" width="32" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/32px-Node.js_logo.svg.png"></a>
+<a title="node.js authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"><img align="left" width="32" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
 
 <!--
 **marvinbernd/marvinbernd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
