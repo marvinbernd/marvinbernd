@@ -2,7 +2,8 @@
 
 I love building websites/apps with a clean and great design focused on usability. I gave myself the challenge to build fast and scalable solutions. I'm always ready to learn new skills in design & tech to improve the products I'm delivering to my clients.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="26px" alt="JavaScript" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="26px" alt="JavaScript Logo" title="JavaScript" />
+<a title="Facebook, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img width="32" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"></a>
 
 <!--
 **marvinbernd/marvinbernd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
