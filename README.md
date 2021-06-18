@@ -7,6 +7,7 @@ I love building websites/apps with a clean and great design focused on usability
 <a title="http://sass-lang.com/, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg"><img align="left" height="32" alt="Sass Logo Color" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"></a>
 <a title="ReactJS, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:React.svg"><img align="left" height="32" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"></a>
 <a title="node.js authors, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"><img align="left" height="32" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
+<a title="Facebook, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg"><img align="left" height="32" alt="GraphQL Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png"></a>
 
 <!--
 **marvinbernd/marvinbernd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
