@@ -11,6 +11,7 @@ I love building websites/apps with a clean and great design focused on usability
 <a title="Facebook, BSD &lt;http://opensource.org/licenses/bsd-license.php&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg"><img align="left" height="32" alt="GraphQL Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png"></a>
 <a href="https://en.wikipedia.org/wiki/File:Gatsby_Logo.png#/media/File:Gatsby_Logo.png"><img align="left" height="32" src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="Gatsby Logo.png"></a>
 <a href="https://astro.build/"><img align="left" height="32" src="https://astro.build/assets/press/logomark-light.svg" alt="Astro.js"></a>
+<a href="https://cypress.io/"><img align="left" height="32" src="https://www.cypress.io/images/layouts/cypress-logo.svg" alt="Cypress"></a>
 
 <!--
 **marvinbernd/marvinbernd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
